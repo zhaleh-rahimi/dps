@@ -1,0 +1,11 @@
+# requirements.txt
+torch
+torch-geometric
+scikit-learn
+gym
+numpy
+pandas
+matplotlib
+
+torchvision
+tqdm
