@@ -23,8 +23,3 @@ python main.py
 - `utils/` - Data loading and visualization tools
 - `data/` - Placeholder for dataset files
 
-## Authors
-- Zhaleh
-
-## License
-MIT
